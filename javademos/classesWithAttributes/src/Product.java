@@ -1,4 +1,14 @@
 public class Product {
+    public Product(int id, String name,String description,double price,int stockAmount,String renk){
+        System.out.println("Yapıcı blok çalıştı");
+        this.id=id;
+        this.name=name;
+        this.stockAmount=stockAmount;
+        this.price=price;
+        this.description=description;
+        this.renk=renk;
+    }
+
 
     //attribute |  field
     private int id;

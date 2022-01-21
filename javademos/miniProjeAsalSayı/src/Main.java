@@ -6,15 +6,7 @@ public class Main {
        // System.out.println(remainder);
         boolean isPrime = true;
 
-        if (number==1){
-            System.out.println("Sayı asal değilidir");
-            return;
-        }
-
-        if (number<1){
-            System.out.println("Geçersiz sayı girdiniz");
-            return;
-        }
+        
 
         for (int i=2; i<number;i++){
             if(number % i == 0){
