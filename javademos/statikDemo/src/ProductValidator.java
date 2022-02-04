@@ -3,8 +3,6 @@ public class ProductValidator {
     static {
         System.out.println("Static yapıcı blok çalıştı");
     }
-
-
     public ProductValidator(){
         System.out.println("Yapıcı blok çalıştı");
     }
