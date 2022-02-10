@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0356d258-a64b-4be8-8312-fed3d5d7cdd4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrayDemo/arrayDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conditionals/conditionals.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatypes/datatypes.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loopDemo/loopDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recapDemo1/recapDemo1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/switchDemo/switchDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/variables.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="0356d258-a64b-4be8-8312-fed3d5d7cdd4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +20,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/threadDemoo" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -45,6 +31,7 @@
       <option name="presentableId" value="Default" />
       <updated>1642327164264</updated>
       <workItem from="1642327167638" duration="54000" />
+      <workItem from="1644513208082" duration="39000" />
     </task>
     <servers />
   </component>
