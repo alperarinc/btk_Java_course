@@ -1,4 +1,4 @@
-package springintro;
+package springIntro;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
@@ -8,15 +8,12 @@ public class Main {
 		
 		ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
 		
+		ICustomerService customerService = context.getBean("service",ICustomerService.class);
 		
-		
-		CustomerManager customerManager =new CustomerManager(context.getBean("database",ICustomerDal.class));
-		customerManager.add();
+		customerService.add();
+		//CustomerManager customerManager =new CustomerManager(context.getBean("database",ICustomerDal.class));
+		//customerManager.add();
 
 	}
-	
-	//IoC - Inversion of Control
-	//Dependency Injection
-	//
 
 }

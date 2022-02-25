@@ -1,6 +1,6 @@
-package springintro;
+package springIntro;
 
-public class CustomerManager {
+public class CustomerManager implements ICustomerService{
 	
 	private ICustomerDal customerDal;
 	
@@ -10,9 +10,9 @@ public class CustomerManager {
 		this.customerDal = customerDal;
 	}
 
-
+	//iþ kurallarý
 	public void add() {
 		customerDal.add();
 	}
-	
+
 }

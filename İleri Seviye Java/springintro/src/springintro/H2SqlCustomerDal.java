@@ -1,4 +1,4 @@
-package springintro;
+package springIntro;
 
 public class H2SqlCustomerDal implements ICustomerDal {
 

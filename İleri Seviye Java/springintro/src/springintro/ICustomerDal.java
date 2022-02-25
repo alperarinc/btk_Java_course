@@ -1,4 +1,4 @@
-package springintro;
+package springIntro;
 
 public interface ICustomerDal {
 	void add();
