@@ -13,3 +13,30 @@
 2022-03-12 21:17:22,994 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2022-03-13 17:24:11,660 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2022-03-14 20:59:50,912 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-16 22:03:23,740 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-16 22:03:26,675 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.abc:intro:0.0.1-SNAPSHOT @ C:\Users\admin\Desktop\gitup-dev\btk_java_course\intro\pom.xml.
+2022-03-16 22:03:26,675 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.abc:intro:0.0.1-SNAPSHOT @ C:\Users\admin\Desktop\gitup-dev\btk_java_course\intro\pom.xml.
+2022-03-16 22:03:26,783 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-core:pom:6.0.0.CR2 has been relocated to org.hibernate.orm:hibernate-core:pom:6.0.0.CR2
+2022-03-16 22:03:26,784 [Worker-5: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-core:pom:6.0.0.CR2 has been relocated to org.hibernate.orm:hibernate-core:pom:6.0.0.CR2
+2022-03-16 22:03:27,611 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-16 22:03:27,611 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\gitup-dev\btk_java_course\intro\src\main\resources
+2022-03-16 22:03:27,613 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-16 22:03:27,613 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\gitup-dev\btk_java_course\intro\src\test\resources
+2022-03-16 22:03:28,810 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-core:pom:6.0.0.CR2 has been relocated to org.hibernate.orm:hibernate-core:pom:6.0.0.CR2
+2022-03-16 22:03:29,104 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.abc:intro:0.0.1-SNAPSHOT @ C:\Users\admin\Desktop\gitup-dev\btk_java_course\intro\pom.xml.
+2022-03-16 22:03:29,116 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-16 22:03:29,116 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\gitup-dev\btk_java_course\intro\src\main\resources
+2022-03-16 22:03:29,133 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-16 22:03:29,133 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\gitup-dev\btk_java_course\intro\src\test\resources
+2022-03-16 22:03:29,173 [Worker-1: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-core:pom:6.0.0.CR2 has been relocated to org.hibernate.orm:hibernate-core:pom:6.0.0.CR2
+2022-03-16 22:03:30,351 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-core:pom:6.0.0.CR2 has been relocated to org.hibernate.orm:hibernate-core:pom:6.0.0.CR2
+2022-03-16 22:03:30,358 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-16 22:03:30,358 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\gitup-dev\btk_java_course\intro\src\main\resources
+2022-03-16 22:03:30,359 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-16 22:03:30,359 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\gitup-dev\btk_java_course\intro\src\test\resources
+2022-03-16 22:16:11,251 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-16 22:16:12,200 [Worker-8: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-core:pom:6.0.0.CR2 has been relocated to org.hibernate.orm:hibernate-core:pom:6.0.0.CR2
+2022-03-16 22:16:13,366 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-16 22:16:13,366 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\gitup-dev\btk_java_course\intro\src\main\resources
+2022-03-16 22:16:13,367 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-16 22:16:13,368 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\gitup-dev\btk_java_course\intro\src\test\resources
