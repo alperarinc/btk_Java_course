@@ -1,7 +1,7 @@
 package com.javacourse.project.hibernateAndJpa.DataAccess;
 import java.util.List;
 
-import com.javacourse.project.hibernateAndJpa.Entities.*;
+import com.javacourse.project.hibernateAndJpa.Entities.City;
 
 
 public interface ICityDal {
